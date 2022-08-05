@@ -1,7 +1,5 @@
 ### Oiii! Eu sou Bernardo Lara Afonso 👋
 - 🔭 Trabalho com Backend!
-- 🌱 Estou aprendendo sobre Node!
-
 
 <div align="center">
   <a href="https://github.com/bernardolaraa">
